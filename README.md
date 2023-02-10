@@ -1,1 +1,1 @@
-# vjthree
+![VJTHREE Logo](./vjthree.svg)
