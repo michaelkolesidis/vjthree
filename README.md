@@ -1,1 +1,1 @@
-![VJTHREE Logo](./vjthree.svg)
+![VJTHREE Logo](./vjthree-logo.svg)
